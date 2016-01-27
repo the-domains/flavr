@@ -1,0 +1,28 @@
+name: Flavr
+favicon: null
+layout_spectrum: 0.5166437388397753
+typography_spectrum: 0.6533954832702875
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.38141177548095584
+  lightness: 0.6632022089324892
+  saturation: 0.6274503371678293
+  rhythmicContrast: 0.42172517185099423
+purpose: []
